@@ -2,6 +2,10 @@
 
 > Source: Desktop / Personal Papers / On the Dual-Opposition Law of Human Civilizational Evolution and the Dual-Core Game under the Modern Scientific Outlook.docx. Text extracted by program, original wording preserved.
 
+
+> **Editorial Note (2026-09-20 / v1.0)**
+> This is the author's original paper, reproduced verbatim. The term "digital capitalism" as used herein has been revised to **"digital individualism"** in the manifesto layer of *AI Manifesto — An AI World Scientific Outlook* v1.0, so as to form a strict value-dimension pair with "digital collectivism." The original term is retained as a concept at the level of economic system (opposed to digital communism/socialism). The relation is: **digital individualism (value dimension) → maps onto digital capitalism (institutional dimension)**. This note is a terminological cross-reference only; the body text is unmodified.
+
 ---
 
 Title: On the Dual-Opposition Law of Human Civilizational Evolution and the Dual-Core Game under the Modern Scientific Outlook
