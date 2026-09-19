@@ -1,0 +1,30 @@
+# AI 世界科学观 仓库忽略规则
+# 本仓库仅含论文与世界观文本，以下为防御性规则，确保不混入任何密钥/私密/第三方内容
+
+# 密钥与凭据
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.csr
+.env
+.env.*
+
+# 数据与第三方
+*.db
+*.sqlite
+*.sqlite3
+node_modules/
+.venv*/
+开源参考/
+运营数据/
+
+# 记忆与私密目录（绝不上传）
+.workbuddy/
+
+# 系统/临时
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
