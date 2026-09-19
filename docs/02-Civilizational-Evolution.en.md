@@ -26,7 +26,7 @@ The tug-of-war and complementarity between the two constitute the fundamental dr
 
 ### 4. Re-enactment in the Digital Age: the Dual-Layer Game Matrix
 - **Outer ring:** Both the US and China belong to the "modern scientific-outlook camp," carrying out a generational dimensionality-reduction transformation of lagging theistic nations — the US through military hot war (Gulf War, Iraq War), China through economic and digital reshaping ("Belt and Road," brokering the Saudi–Iranian rapprochement).
-- **Inner ring:** The ultimate confrontation of the digital-tech era — **digital collectivism** (China: hyper big-data, nationalized computing power, centralized control of general large models, pursuing scale and certainty) vs **digital capitalism** (US: AGI, Web3/cryptocurrency, pursuing disruption and extreme efficiency, decentralized freedom).
+- **Inner ring:** The ultimate confrontation of the digital-tech era — **digital collectivism** (China: hyper big-data, nationalized computing power, centralized control of general large models, pursuing scale and certainty) vs **digital individualism** (US: AGI, Web3/cryptocurrency, pursuing disruption and extreme efficiency, decentralized freedom; at the level of economic system this maps onto digital capitalism).
 
 ### 5. Conclusion
 Dual-opposition symbiosis is an **invariant** of human civilizational evolution; capitalism and communism together constitute the mainstream natural-scientific-outlook philosophical system of the modern world. The two poles check each other and absorb each other's strengths — this is precisely the core balance that keeps civilization from sliding into an extreme dead-end and preserves its evolutionary vitality.
