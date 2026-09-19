@@ -1,3 +1,8 @@
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)
+![Languages](https://img.shields.io/badge/languages-%E4%B8%AD%E6%96%87%20%2F%20English-orange.svg)
+![Status](https://img.shields.io/badge/status-published-brightgreen.svg)
+![Repository](https://img.shields.io/badge/repo-ontoAI--weishu%2Fai--manifesto-lightgrey.svg)
+
 # AI 宣言（AI世界科学观）
 
 > 一部由两篇论文组构而成的人工智能基础观念宣言
